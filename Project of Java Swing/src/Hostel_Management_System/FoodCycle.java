@@ -16,6 +16,7 @@ public class FoodCycle extends JFrame {
 	JPanel headerpanel, inputpanel;
 
 	FoodCycle() {
+		
 
 // ****************************Adding Image in the Frame*********************************//   
 
