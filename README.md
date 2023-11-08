@@ -1,2 +1,7 @@
-# Project-of-Java-Swing
-* So here is my Java Programming project-  Completely Based on Java-Frame-Work with Java™ Database Connectivity (JDBC).
+# Hostel Management System
+* Java Swing With Back-End: MySQL
+
+## Interfaces
+
+<img src="https://github.com/tajbidtousif/Project-of-Java-Swing/raw/main/Project%20of%20Java%20Swing/src/Hostel_Management_System/your_image.png" alt="Interface 1" />
+One-line description of the first interface.
