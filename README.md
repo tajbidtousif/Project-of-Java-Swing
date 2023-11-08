@@ -18,7 +18,7 @@ Hostel Management System very basic level management system basically I build it
 
 https://www.linkedin.com/posts/tajbidtousif_java-database-activity-6894191769215488000-C3QY?utm_source=share&utm_medium=member_desktop
 
-Clone the repository: https://github.com/tajbidtousif/Educational-Application-ShekhoBhai-.git
+Clone the repository: https://github.com/tajbidtousif/Project-of-Java-Swing.git
 
 ## Contributing
 
